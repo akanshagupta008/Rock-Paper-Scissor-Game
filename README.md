@@ -16,6 +16,11 @@ Play against the computer and test your luck!
 <img width="1533" height="923" alt="Rock-paper-screenshot-ss" src="https://github.com/user-attachments/assets/996b32c4-6c56-44bf-aa37-e7370f7ba38f" />
 
 
+## 🔗 Live Demo
+
+[Click Here to Play the Game](https://akanshagupta008.github.io/Rock-Paper-Scissor-Game/)
+
+
 ## 🚀 How to Play
 
 1. Click on any of the three icons – Rock, Paper, or Scissors.
