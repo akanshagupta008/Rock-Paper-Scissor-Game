@@ -5,6 +5,7 @@ Play against the computer and test your luck!
 
 ## 🎮 Features
 
+- User vs Computer gameplay
 - Clean and user-friendly UI
 - Real-time score tracking
 - Restart and Game Over buttons
